@@ -53,6 +53,12 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 - optimised file size (~200MB when compressed!)
 - images are compressed, signed and released on GitHub
 
+## Releases
+
+| Release                                                                 | Date       |
+| ----------------------------------------------------------------------- | ---------- |
+| [`v6.20`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.20) | 2019-01-31 |
+
 ## Disclaimer
 
 This project is NOT officially supported by the DietPi team, nor is the team
