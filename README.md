@@ -52,3 +52,19 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 - minimal modifications to the DietPi installation
 - optimised file size (~200MB when compressed!)
 - images are compressed, signed and released on GitHub
+
+## Disclaimer
+
+This project is NOT officially supported by the DietPi team, nor is the team
+affiliated with it. This is a spin-off project which aims to formally support
+Hyper-V as a hypervisor for running DietPi.
+
+Please rely on this project's issues page for errors/bugs directly related to
+Hyper-V, and the official DietPi GitHub or forums for DietPi-specific issues. If
+uncertain, report the issues here. Any issues that are related to DietPi itself
+will be relayed to the official team.
+
+## Attributions
+
+- DietPi: Daniel Knight (Fourdee)
+- Hyper-V: Microsoft Corporation
