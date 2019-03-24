@@ -25,7 +25,7 @@
 	</p>
     <hr>
 	<p align="center">
-		<img src="https://user-images.githubusercontent.com/10241434/52020751-751b7300-252d-11e9-9e3b-78681405e0ab.png" alt="Hyper-V Screenshot">
+		<img src="https://user-images.githubusercontent.com/10241434/54876749-e4d41d00-4e4f-11e9-9433-fe7dc77a1703.png" alt="Hyper-V Screenshot">
 	</p>
 </html>
 
