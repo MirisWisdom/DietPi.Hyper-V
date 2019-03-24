@@ -73,5 +73,7 @@ will be relayed to the official team.
 
 ## Attributions
 
-- DietPi: Daniel Knight (Fourdee)
+- DietPi
+  - Project lead: Micha (MichaIng)
+  - Founder: Daniel Knight (Fourdee)
 - Hyper-V: Microsoft Corporation
