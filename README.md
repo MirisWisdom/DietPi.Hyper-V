@@ -57,6 +57,7 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 
 | Release                                                                 | Date       |
 | ----------------------------------------------------------------------- | ---------- |
+| [`v6.22`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.22) | 2019-03-24 |
 | [`v6.20`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.20) | 2019-01-31 |
 
 ## Disclaimer
