@@ -38,9 +38,7 @@ potential. The programs use lightweight Whiptail menus. You'll spend less time
 staring at the command line, and more time enjoying DietPi.
 
 DietPi makes self-hosting incredibly easy and straightforward, making it a
-superb candidate for running as a virtualised server image in home labs. It is
-available on common VM software such as VMware and VirtualBox, but it is not
-(yet) available on Hyper-V.
+superb candidate for running as a virtualised server image in home labs.
 
 The DietPi.Hyper-V project aims to release DietPi images that are compatible
 with Hyper-V with minimal modifications. This way, Hyper-V users can experience
@@ -50,7 +48,7 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 
 - fully compatible with Microsoft Hyper-V
 - minimal modifications to the DietPi installation
-- optimised file size (~200MB when compressed!)
+- optimised file size (~120-150MB when compressed!)
 - images are compressed, signed and released on GitHub
 
 ## Releases
