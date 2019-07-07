@@ -53,13 +53,14 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 
 ## Releases
 
-| Release                                                                             | Date       | Size   | Hash                                                                       |
-| ----------------------------------------------------------------------------------- | ---------- | ------ | -------------------------------------------------------------------------- |
-| [`v6.24`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.24)             | 2019-05-16 | `121M` | `SHA256: C7EB2957ADF9480D6B24B97DCC303B21F2EC3C1314F696C67899790EAF604DF9` |
-| [`v6.23`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.23)             | 2019-05-13 | `129M` | `SHA256: D52463AE3CC8671A0521EFC6AE8D2383CE6DB6D5452BEA8264E919780D4FFAAF` |
-| [`v6.22-rev02`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.22-rev02) | 2019-03-26 | `135M` | `SHA256: D670890B1C9DEC7C48E70BA6516A31FB73720FA7BDC863F2DD709DDC93DE3359` |
-| [`v6.22`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.22)             | 2019-03-24 | `343M` | `SHA256: CD0D43D7E799387278E5865E9C9237E8CFFCBF5C418D061DBD4E67B1E437266E` |
-| [`v6.20`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.20)             | 2019-01-31 | `204M` | `SHA256: 0D0267701B1D894DB4513F4C3A6C7D04D981CC77661C413B7DAC13424A9AB783` |
+| Release                                                                             | Date       | Hash                                                                       |
+| ----------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
+| [`v6.25.3`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.24)           | 2019-07-08 | `SHA256: 04A7BD4261E08D84EB6DA0E96F95718690C435FDE0ED9831E36A71E29CA1BBBE` |
+| [`v6.24`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.24)             | 2019-05-16 | `SHA256: C7EB2957ADF9480D6B24B97DCC303B21F2EC3C1314F696C67899790EAF604DF9` |
+| [`v6.23`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.23)             | 2019-05-13 | `SHA256: D52463AE3CC8671A0521EFC6AE8D2383CE6DB6D5452BEA8264E919780D4FFAAF` |
+| [`v6.22-rev02`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.22-rev02) | 2019-03-26 | `SHA256: D670890B1C9DEC7C48E70BA6516A31FB73720FA7BDC863F2DD709DDC93DE3359` |
+| [`v6.22`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.22)             | 2019-03-24 | `SHA256: CD0D43D7E799387278E5865E9C9237E8CFFCBF5C418D061DBD4E67B1E437266E` |
+| [`v6.20`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.20)             | 2019-01-31 | `SHA256: 0D0267701B1D894DB4513F4C3A6C7D04D981CC77661C413B7DAC13424A9AB783` |
 
 ## Disclaimer
 
