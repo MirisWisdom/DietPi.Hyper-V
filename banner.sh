@@ -2,6 +2,6 @@
 
 # update prep_info as suggested by @MichaIng
 cat << '_EOF_' > /boot/dietpi/.prep_info
-yumiris
-DietPi for VMware
+Miris Wisdom <wisdom@miris.design>
+Debian
 _EOF_

@@ -55,6 +55,7 @@ the true essence of DietPi: *optimised, simplified, for everyone*.
 
 | Release                                                                             | Date       | Hash                                                                       |
 | ----------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
+| [`v8.00`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v8.00)             | 2022-01-10 | `SHA256: BBB18B8DBCDF49CDF514E63CA133B9A4C837BC689F960111481A5DAFC999DA42` |
 | [`v7.00`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v7.00)             | 2021-03-02 | `SHA256: 71B8EF57F62CA23B1D50421B5B031A652A5E98F597DA63307B7F45CC8585E4B1` |
 | [`v6.30`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.30)             | 2020-05-11 | `SHA256: 42D82FFC46483077D18183491D3057EAC3E98FD3EAFE5E4D9E9123D20F9143BF` |
 | [`v6.29.2`](https://github.com/yumiris/DietPi.Hyper-V/releases/tag/v6.29.2)         | 2020-05-04 | `SHA256: C8153DD8FD522CD20AD737E61B462E93C05D2DA8E953AE819B0FCCF365BC82DD` |
